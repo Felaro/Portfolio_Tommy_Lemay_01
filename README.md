@@ -32,3 +32,13 @@ Pour faire fonctionner cette œuvre, je dois faire des mouvements à côté du r
 J’ai bien aimé l’idée des mouvements hasardeux des robots, aussi l’éclairage avec les leds qui donne un côté futuriste.
 
 Je pense qu’il aurait été mieux de cacher des fils, car selon moi il y a beaucoup trop de fils. Je trouve que l’œuvre est gâché par ces trop nombreux fils.
+
+![photo](photo_1.jpg)
+![photo](photo_2.jpg)
+![photo](photo_3.jpg)
+![photo](photo_4.jpg)
+![photo](photo_5.jpg)
+![photo](photo_6.jpg)
+![photo](photo_7.jpg)
+![photo](photo_8.jpg)
+![photo](photo_9.jpg)
