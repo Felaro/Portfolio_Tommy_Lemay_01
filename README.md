@@ -27,18 +27,27 @@ Crochets
 Rideau 
 Herse d’éclairage 
 
+# Expérience vécue :
+
+## Description de votre expérience de l'oeuvre ou du dispositif, de l'interactivité, des gestes à poser, etc.
 Pour faire fonctionner cette œuvre, je dois faire des mouvements à côté du robot
-
+## Ce qui vous a plu, vous a donné des idées et justifications
 J’ai bien aimé l’idée des mouvements hasardeux des robots, aussi l’éclairage avec les leds qui donne un côté futuriste.
-
+## Aspect que vous ne souhaiteriez pas retenir pour vos propres créations ou que vous feriez autrement et justifications
 Je pense qu’il aurait été mieux de cacher des fils, car selon moi il y a beaucoup trop de fils. Je trouve que l’œuvre est gâché par ces trop nombreux fils.
 
-![photo](photo_1.jpg)
-![photo](photo_2.jpg)
-![photo](photo_3.jpg)
-![photo](photo_4.jpg)
-![photo](photo_5.jpg)
-![photo](photo_6.jpg)
-![photo](photo_7.jpg)
-![photo](photo_8.jpg)
-![photo](photo_9.jpg)
+## Photographie de l'oeuvre ou du dispositif dans son ensemble
+![ensemble_dispositif](ensemble_dispositif.jpg)
+## Photographies des composantes de l'oeuvre
+![composantes](composantes.jpg)
+![composantes_02](composantes_02.jpg)
+![composantes_03](composantes_03.jpg)
+## Photographies des éléments nécessaires à sa mise en espace
+![elements_necessaires](elements_necessaires.jpg)
+![elements_necessaires_02](elements_necessaires_02.jpg)
+## Photographie du cartel ou du panneau explicatif
+![panneau_explicatif](panneau_explicatif.jpg)
+## Autoportrait (photo) de vous avec l'oeuvre
+![autoportrait](autoportrait.jpg)
+## Croquis de la mise en espace (choisir la vue la plus pertinente : plan ou élévation)
+![vue_ensemble.jpg](vue_ensemble.jpg)
