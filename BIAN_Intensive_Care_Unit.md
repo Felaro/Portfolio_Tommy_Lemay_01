@@ -7,9 +7,9 @@ Bill Vorn
 ## Année de réalisation
 2021
 ## Nom de l'exposition ou de l'évènement
-Bian
-## Lieu de mise en exposition
 Biennale Art Numérique
+## Lieu de mise en exposition
+Montréal Québec l'Arsenal
 ## Date de votre visite
 9 février 2022
 ## Description de l'oeuvre ou du dispositif multimedia
@@ -20,13 +20,12 @@ Il y a plusieurs robots mécaniques suspendus par des câble , au dessus d’eux
 Projecteurs
 Haut parleur
 Carré en led 
-Ordinateur
+Herse d'éclairage
 ## Liste des éléments nécessaires pour la mise en exposition
 Câbles de soutien 
 Crochets 
 Rideau 
-Herse d’éclairage 
-
+Ordinateur
 # Expérience vécue :
 
 ## Description de votre expérience de l'oeuvre ou du dispositif, de l'interactivité, des gestes à poser, etc.
@@ -45,6 +44,7 @@ Je pense qu’il aurait été mieux de cacher des fils, car selon moi il y a bea
 ## Photographies des éléments nécessaires à sa mise en espace
 ![elements_necessaires](BIAN_Intensive_Care_Unit/photographies/elements_necessaires.jpg)
 ![elements_necessaires_02](BIAN_Intensive_Care_Unit/photographies/elements_necessaires_02.jpg)
+![composantes_02](BIAN_Intensive_Care_Unit/photographies/composantes_02.jpg)
 ## Photographie du cartel ou du panneau explicatif
 ![panneau_explicatif](BIAN_Intensive_Care_Unit/photographies/panneau_explicatif.jpg)
 ## Autoportrait (photo) de vous avec l'oeuvre
