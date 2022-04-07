@@ -1,1 +1,1 @@
-Ceci est le dossier de présentation
+Ceci est le dossier des photographies
