@@ -19,8 +19,15 @@ Il y a un podium avec des boutons pour interagir avec l'oeuvre et un projecteur 
 ## Explications sur la mise en espace de l'oeuvre ou du dipositif
 Les boutons servent à faire interagir l'intéracteur avec l'oeuvre. 
 ## Liste des composantes et techniques de l'oeuvre ou du dispositif
-Projecteurs
-Haut parleur
+2 haut-parleurs actifs de 4"
+2 fils XLR 3 conducteurs de 15' (M->F)
+Interface audio USB disposant 2 sorties
+2 projecteurs vidéo lentille standard
+2 systèmes d'acrochage
+1 Arduino
+4 Boutons d'arcade
+2 cordons IEC (pour l'alimentation des haut-parleurs)
+2 extentions
 
 ![composantes](BIAN_Intensive_Care_Unit/photographies/composantes.jpg)
 
