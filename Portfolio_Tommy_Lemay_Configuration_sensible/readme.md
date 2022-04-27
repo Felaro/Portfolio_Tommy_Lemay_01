@@ -11,15 +11,15 @@ Configurations du sensible
 Laval, salle Alfred-Pellan
 ## Date de votre visite
 16 mars 2021
-![selphie](media_configurations_du_sensible/selphie.jpg)
+![selphie](medias_configuration_sensible/selphie.jpg)
 ## Description de l'oeuvre ou du dispositif multimedia
 
 ## Explications sur la mise en espace de l'oeuvre ou du dipositif
 Ce sont trois formes géométriques éloignées de chacune d'elles, éclairées par des led, disposant d'un mécanisme qui les fait bouger.
-![oeuvre](media_configurations_du_sensible/triangle.jpg)
-![oeuvre](media_configurations_du_sensible/carré.jpg)
-![oeuvre](media_configurations_du_sensible/cercle.jpg)
-![explicatif](media_configurations_du_sensible/panneau_explicatif.jpg)
+![oeuvre](medias_configuration_sensible/triangle.jpg)
+![oeuvre](medias_configuration_sensible/carré.jpg)
+![oeuvre](medias_configuration_sensible/cercle.jpg)
+![explicatif](medias_configuration_sensible/panneau_explicatif.jpg)
 
 ## Liste des composantes et techniques de l'oeuvre ou du dispositif
 Led
