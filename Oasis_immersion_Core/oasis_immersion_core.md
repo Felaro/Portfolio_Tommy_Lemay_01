@@ -3,9 +3,9 @@ Ceci est la fiche technique pour la présentation de Oasis Immersion Core.
 ## Titre de l'oeuvre ou de la réalistion
 Core
 
-![nom](medias_core/nom.jpg)
+![nom](medias_core/oeuvre(2).jpg)
+Source: https://oasis.im/en/now-showing/
 
-## Photographie de l'oeuvre ou du dispositif dans son ensemble
 ![oeuvre](medias_core/oeuvre.jpg)
 
 ## Nom de l'artiste ou de la firme 
@@ -43,14 +43,16 @@ Il y a plusieurs robots mécaniques suspendus par des câble , au dessus d’eux
 -Projecteurs
 -Haut parleur
 -Ordinateur
+
 ![shema](medias_core/schema.jpg)
+
 # Expérience vécue :
 
 ## Description de votre expérience de l'oeuvre ou du dispositif, de l'interactivité, des gestes à poser, etc.
-L'oeuvre consistait seulement à la regarder étant donné que c'est une oeuvre contemplative.
+L'oeuvre consistait à regarder et essayer de comprendre le message étant donné que c'est une oeuvre contemplative. 
 
 ## Ce qui vous a plu, vous a donné des idées et justifications
-J’ai bien aimé le mouvement des particules blanches qui était très fluide et synchronisé.
+J’ai bien aimé le mouvement des particules blanches qui était très fluide et synchronisé. Malheureusement, je trouve ce concept mal exploité. L'idée de créer du mouvement grace à des particules étaient bonnes, mais les artistes auraient pu aller encore plus loin. Ils auraient pu créer des images ou des formes avec les billes blanches.
 
 ## Aspect que vous ne souhaiteriez pas retenir pour vos propres créations ou que vous feriez autrement et justifications
 Je pense que j'aurais essayé de donner plus de sens au mouvement des particules. Peut-etre essayer de créer des formes ou des images avec les particules blanches auraient été mieux.
