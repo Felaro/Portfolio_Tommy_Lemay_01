@@ -32,17 +32,17 @@ La pièce contemplative Core est un ballet synesthésique de lumières et de son
 Il y a plusieurs robots mécaniques suspendus par des câble , au dessus d’eux il y a un carré avec des leds, tout ça éclairé par des projecteurs suspendus accrochés à la herse d’éclairage , des hauts parleurs sont disposés sur la herse d’éclairage dans les quatre coins de la pièce.
 
 ## Liste des composantes et techniques de l'oeuvre ou du dispositif
-Projecteurs
-Haut parleur
+-Projecteurs
+-Haut parleur
 
 ![materiel](medias_core/materiel.jpg)
 
 ![materiel](medias_core/materiel(2).jpg)
 
 ## Liste des éléments nécessaires pour la mise en exposition
-Projecteurs
-Haut parleur
-Ordinateur
+-Projecteurs
+-Haut parleur
+-Ordinateur
 ![shema](medias_core/schema.jpg)
 # Expérience vécue :
 
@@ -54,5 +54,9 @@ J’ai bien aimé le mouvement des particules blanches qui était très fluide e
 
 ## Aspect que vous ne souhaiteriez pas retenir pour vos propres créations ou que vous feriez autrement et justifications
 Je pense que j'aurais essayé de donner plus de sens au mouvement des particules. Peut-etre essayer de créer des formes ou des images avec les particules blanches auraient été mieux.
-
+-
+-
+-
+-
+-
 ![selphie](medias_core/selphie.jpg)
