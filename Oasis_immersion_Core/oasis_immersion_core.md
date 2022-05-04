@@ -33,6 +33,7 @@ Il y a une pièce avec des murs sur lesquelles ont projettent l'oeuvre. Plusieur
 
 ## Liste des composantes et techniques de l'oeuvre ou du dispositif
 -Projecteurs
+
 -Haut parleur
 
 ![materiel](medias_core/materiel.jpg)
@@ -41,6 +42,7 @@ Il y a une pièce avec des murs sur lesquelles ont projettent l'oeuvre. Plusieur
 
 ## Liste des éléments nécessaires pour la mise en exposition
 -Herse
+
 -Ordinateur
 
 ![shema](medias_core/schema.jpg)
