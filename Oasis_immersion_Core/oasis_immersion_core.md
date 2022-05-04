@@ -29,7 +29,7 @@ La pièce contemplative Core est un ballet synesthésique de lumières et de son
 ![panneau](medias_core/panneau.jpg)
 
 ## Explications sur la mise en espace de l'oeuvre ou du dipositif
-Il y a plusieurs robots mécaniques suspendus par des câble , au dessus d’eux il y a un carré avec des leds, tout ça éclairé par des projecteurs suspendus accrochés à la herse d’éclairage , des hauts parleurs sont disposés sur la herse d’éclairage dans les quatre coins de la pièce.
+Il y a une pièce avec des murs sur lesquelles ont projettent l'oeuvre. Plusieurs projecteurs et haut parleurs sont disposés dans la salle pour offrir une expérience immersive.
 
 ## Liste des composantes et techniques de l'oeuvre ou du dispositif
 -Projecteurs
@@ -40,8 +40,7 @@ Il y a plusieurs robots mécaniques suspendus par des câble , au dessus d’eux
 ![materiel](medias_core/materiel(2).jpg)
 
 ## Liste des éléments nécessaires pour la mise en exposition
--Projecteurs
--Haut parleur
+-Herse
 -Ordinateur
 
 ![shema](medias_core/schema.jpg)
