@@ -29,7 +29,7 @@ La pièce contemplative Core est un ballet synesthésique de lumières et de son
 ![panneau](medias_core/panneau.jpg)
 
 ## Explications sur la mise en espace de l'oeuvre ou du dipositif
-Il y a une pièce avec des murs sur lesquelles ont projettent l'oeuvre. Plusieurs projecteurs et haut parleurs sont disposés dans la salle pour offrir une expérience immersive.
+Il y a une pièce avec des murs sur lesquels on projette l'oeuvre. Plusieurs projecteurs et haut-parleurs sont disposés dans la salle pour offrir une expérience immersive.
 
 ## Liste des composantes et techniques de l'oeuvre ou du dispositif
 -Projecteurs
@@ -50,13 +50,13 @@ Il y a une pièce avec des murs sur lesquelles ont projettent l'oeuvre. Plusieur
 # Expérience vécue :
 
 ## Description de votre expérience de l'oeuvre ou du dispositif, de l'interactivité, des gestes à poser, etc.
-L'oeuvre consistait à regarder et essayer de comprendre le message étant donné que c'est une oeuvre contemplative. 
+L'oeuvre consistait à regarder et essayer de comprendre le message étant donné que c'est une oeuvre contemplative. Le mouvement et le rythme de la projection des billes blanches étaient hypnotisants.
 
 ## Ce qui vous a plu, vous a donné des idées et justifications
-J’ai bien aimé le mouvement des particules blanches qui était très fluide et synchronisé. Malheureusement, je trouve ce concept mal exploité. L'idée de créer du mouvement grace à des particules étaient bonnes, mais les artistes auraient pu aller encore plus loin. Ils auraient pu créer des images ou des formes avec les billes blanches.
+J’ai bien aimé le mouvement des particules blanches qui était très fluide et synchronisé. Malheureusement, je trouve ce concept mal exploité. L'idée de créer du mouvement grâce à des particules était bonne, mais les artistes auraient pu aller encore plus loin. Ils auraient pu créer des images ou des formes avec les billes blanches.
 
 ## Aspect que vous ne souhaiteriez pas retenir pour vos propres créations ou que vous feriez autrement et justifications
-Je pense que j'aurais essayé de donner plus de sens au mouvement des particules. Peut-etre essayer de créer des formes ou des images avec les particules blanches auraient été mieux.
+Je pense que j'aurais essayé de mettre plus de couleurs et de mouvements différents aux particules. J'aurais créer des formes particulières pour les transformer en  images.
 -
 -
 -
