@@ -1,6 +1,6 @@
 Ceci est la fiche technique pour la présentation de Oasis Immersion Core.
 
-## Titre de l'oeuvre ou de la réalistion
+## Titre de l'oeuvre ou de la réalisation
 Core
 
 ![nom](medias_core/oeuvre(2).jpg)
