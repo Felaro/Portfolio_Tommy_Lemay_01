@@ -50,7 +50,7 @@ Il y a une pièce avec des murs sur lesquels on projette l'oeuvre. Plusieurs pro
 # Expérience vécue :
 
 ## Description de votre expérience de l'oeuvre ou du dispositif, de l'interactivité, des gestes à poser, etc.
-L'oeuvre consistait à regarder et essayer de comprendre le message étant donné que c'est une oeuvre contemplative. Le mouvement et le rythme de la projection des billes blanches étaient hypnotisants.
+L'oeuvre consistait à regarder et essayer de comprendre le message étant donné que c'est une oeuvre contemplative. Le mouvement et le rythme de la projection des billes blanches m'ont fait penser au début de la vie. Étant donné que j'aime la science, j'ai tout de suite pensé que les billes blanches représentaient des atomes et qu'en s'unissant ils créent la matière. La matière remplie le vide de l'univers. Aussi, elle a une force avec laquelle elle peut créer du mouvement comme des battements de coeur ou encore une vague.
 
 ![photo](medias_core/photo-1.jpg)
 
