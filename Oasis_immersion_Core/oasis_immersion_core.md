@@ -52,11 +52,21 @@ Il y a une pièce avec des murs sur lesquels on projette l'oeuvre. Plusieurs pro
 ## Description de votre expérience de l'oeuvre ou du dispositif, de l'interactivité, des gestes à poser, etc.
 L'oeuvre consistait à regarder et essayer de comprendre le message étant donné que c'est une oeuvre contemplative. Le mouvement et le rythme de la projection des billes blanches étaient hypnotisants.
 
+![photo](medias_core/photo-1.jpg)
+
+![photo](medias_core/photo-2.jpg)
+
+![photo](medias_core/photo-3.jpg)
+
 ## Ce qui vous a plu, vous a donné des idées et justifications
 J’ai bien aimé le mouvement des particules blanches qui était très fluide et synchronisé. Malheureusement, je trouve ce concept mal exploité. L'idée de créer du mouvement grâce à des particules était bonne, mais les artistes auraient pu aller encore plus loin. Ils auraient pu créer des images ou des formes avec les billes blanches.
 
 ## Aspect que vous ne souhaiteriez pas retenir pour vos propres créations ou que vous feriez autrement et justifications
 Je pense que j'aurais essayé de mettre plus de couleurs et de mouvements différents aux particules. J'aurais créer des formes particulières pour les transformer en  images.
+-
+https://www.am-cb.net/projets/core
+-
+https://youtube.com/watch?v=BLCaN9VAtac&feature=share
 -
 -
 -
